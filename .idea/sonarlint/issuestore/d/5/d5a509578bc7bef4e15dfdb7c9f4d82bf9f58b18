@@ -1,0 +1,28 @@
+
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Êƒ«úÿÿÿÿ8»Ø²¢ø.
+V	java:S8998";Do something with the "boolean" value returned by "remove".(‚½Ÿe8Ã«³¢ø.
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8»Ø²¢ø.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰Žûûÿÿÿÿ8»Ø²¢ø.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ã«³¢ø.
+I
+java:S16027",Remove useless curly braces around statement(¤¿¯—8»Ø²¢ø.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(øÎ…¾øÿÿÿÿ8»Ø²¢ø.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8»Ø²¢ø.
+I
+java:S16127",Replace this lambda with a method reference.(¤¿¯—8Ã«³¢ø.
+g	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’Ü·¶üÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ã«³¢ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(áèû–þÿÿÿÿ8»Ø²¢ø.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¡í†ƒ8»Ø²¢ø.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(„ûö¤ûÿÿÿÿ8»Ø²¢ø.
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(´êƒ‘8»Ø²¢ø.
+`
+java:S1155:">Use isEmpty() to check whether the collection is empty or not.(Ê½ÞÅøÿÿÿÿ8Ã«³¢ø.
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(âÏ²ºüÿÿÿÿ8»Ø²¢ø.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Çµí‘8»Ø²¢ø.

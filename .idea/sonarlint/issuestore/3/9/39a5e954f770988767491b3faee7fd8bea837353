@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ûûÿÿÿÿ8Æ·Ù¢ø.
+X	java:S125!"<This block of commented-out lines of code should be removed.(•í…ı8Æ·Ù¢ø.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôŠâŠ
+X	java:S125"<This block of commented-out lines of code should be removed.(×¼Ûå8Æ·Ù¢ø.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(¡í†ƒ8Æ·Ù¢ø.
+Y
+java:S1128"<Remove this unused import 'java.util.concurrent.locks.Lock'.(µÒÌÿ8”¢Ú¢ø.
+b
+java:S1128	"ERemove this unused import 'java.util.concurrent.locks.ReentrantLock'.(òªø8”¢Ú¢ø.
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8”¢Ú¢ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(™¢Â¹8Æ·Ù¢ø.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(È—°­8Æ·Ù¢ø.
+0
+java:S1220""Move this file to a named package.

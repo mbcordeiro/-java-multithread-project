@@ -17,3 +17,11 @@ K
 src/SynchronousQueue_1.java,3\b\3b7b94c51ac641c3791d74635bdb5d4e430175f4
 D
 src/Exchanger_1.java,a\d\adced962ca70b4dbae9b287e2654d08eb3edb1c7
+M
+src/ProdutorConsumidor_1.java,4\7\479897c02ca113efcdfa40bb00d352fc9a0077e9
+M
+src/ProdutorConsumidor_3.java,3\9\39a5e954f770988767491b3faee7fd8bea837353
+M
+src/ProdutorConsumidor_2.java,d\5\d5a509578bc7bef4e15dfdb7c9f4d82bf9f58b18
+L
+src/CompletableFuture_1.java,d\4\d460e6b011bc8af14ec1fbfaad2c5071efcddc11

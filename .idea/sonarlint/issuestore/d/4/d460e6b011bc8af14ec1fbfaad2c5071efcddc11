@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©©Ý>
+Q
+java:S1481
+"/Remove this unused "thenAccept" local variable.(‰“ê¿üÿÿÿÿ8Ó‡ú¢ø.
+`
+java:S1854
+">Remove this useless assignment to local variable "thenAccept".(‰“ê¿üÿÿÿÿ8Ó‡ú¢ø.
+N
+java:S1612",Replace this lambda with a method reference.(„ºÙÛüÿÿÿÿ8¾âú¢ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ºÙÛüÿÿÿÿ8Ó‡ú¢ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Åî —úÿÿÿÿ8Ó‡ú¢ø.
